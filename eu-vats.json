@@ -1,0 +1,142 @@
+[
+    {
+        "country": "Belgien",
+        "country-code": "BE",
+        "standard-rate": 21
+    },
+    {
+        "country": "Bulgarien",
+        "country-code": "BG",
+        "standard-rate": 20
+    },
+    {
+        "country": "Dänemark",
+        "country-code": "DK",
+        "standard-rate": 25
+    },
+    {
+        "country": "Deutschland",
+        "country-code": "DE",
+        "standard-rate": 19
+    },
+    {
+        "country": "Estland",
+        "country-code": "EE",
+        "standard-rate": 20
+    },
+    {
+        "country": "Finnland",
+        "country-code": "FI",
+        "standard-rate": 24
+    },
+    {
+        "country": "Frankreich",
+        "country-code": "FR",
+        "standard-rate": 20
+    },
+    {
+        "country": "Griechenland",
+        "country-code": "EL",
+        "standard-rate": 23
+    },
+    {
+        "country": "Irland",
+        "country-code": "IE",
+        "standard-rate": 23
+    },
+    {
+        "country": "Italien",
+        "country-code": "IT",
+        "standard-rate": 22
+    },
+    {
+        "country": "Kroatien",
+        "country-code": "HR",
+        "standard-rate": 25
+    },
+    {
+        "country": "Lettland",
+        "country-code": "LV",
+        "standard-rate": 21
+    },
+    {
+        "country": "Litauen",
+        "country-code": "LT",
+        "standard-rate": 21
+    },
+    {
+        "country": "Luxemburg",
+        "country-code": "LU",
+        "standard-rate": 17
+    },
+    {
+        "country": "Malta",
+        "country-code": "MT",
+        "standard-rate": 18
+    },
+    {
+        "country": "Niederlande",
+        "country-code": "NL",
+        "standard-rate": 21
+    },
+    {
+        "country": "Österreich",
+        "country-code": "AT",
+        "standard-rate": 20
+    },
+    {
+        "country": "Polen",
+        "country-code": "PL",
+        "standard-rate": 23
+    },
+    {
+        "country": "Portugal",
+        "country-code": "PT",
+        "standard-rate": 23
+    },
+    {
+        "country": "Rumänien",
+        "country-code": "RO",
+        "standard-rate": 20
+    },
+    {
+        "country": "Schweden",
+        "country-code": "SE",
+        "standard-rate": 25
+    },
+    {
+        "country": "Slowenien",
+        "country-code": "SI",
+        "standard-rate": 22
+    },
+    {
+        "country": "Slowakische Republik",
+        "country-code": "SK",
+        "standard-rate": 20
+    },
+    {
+        "country": "Spanien",
+        "country-code": "ES",
+        "standard-rate": 21
+    },
+    {
+        "country": "Tschechische Republik",
+        "country-code": "CZ",
+        "standard-rate": 21
+    },
+    {
+        "country": "Ungarn",
+        "country-code": "HU",
+        "standard-rate": 27
+    },
+    {
+        "country": "Vereinigtes Königreich",
+        "country-code": "UK",
+        "standard-rate": 20
+    },
+    {
+        "country": "Zypern",
+        "country-code": "CY",
+        "standard-rate": 19
+    }
+]
