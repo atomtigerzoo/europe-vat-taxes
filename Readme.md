@@ -3,8 +3,8 @@
 Alle Normalsatz-Umsatzsteuersätze der euorpäischen Staaten 
 als praktische Liste für Projekte jeglicher Art.
 
-Gültig seit 1.1.2016.
-Quelle: https://ec.europa.eu/taxation_customs/sites/taxation/files/docs/body/vat_rates_de.pdf 
+Gültig seit 1.1.2017
+Quelle: https://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf
 
 
 THE LIST IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
