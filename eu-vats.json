@@ -37,7 +37,7 @@
     {
         "country": "Griechenland",
         "country-code": "EL",
-        "standard-rate": 23
+        "standard-rate": 24
     },
     {
         "country": "Irland",
@@ -97,7 +97,7 @@
     {
         "country": "Rumänien",
         "country-code": "RO",
-        "standard-rate": 20
+        "standard-rate": 19
     },
     {
         "country": "Schweden",
